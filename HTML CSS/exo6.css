@@ -1,0 +1,48 @@
+/*h1, p
+{
+    color: orangered;
+}*/
+
+/*body
+{
+    color: deeppink;
+}*/
+p
+{
+    color: deeppink;
+}
+.para1
+{
+    color: green;
+}
+
+/*#exemple
+{
+    color: black
+}*/
+
+span
+{
+    color: darkorange;
+}
+
+.carre1{
+    height:200px;
+    width:200px;
+    background-color: turquoise;
+    float:right;
+}
+
+.carre2{
+    height:200px;
+    width:200px;
+    background-color: pink;
+    float:left;
+}
+.p1{
+    text-align: right;
+    margin-right: 17px;
+}
+.p2{
+    margin-left: 17px;
+}

@@ -1,0 +1,29 @@
+body{
+    font-family: 'Gill Sans';
+}
+    
+
+#bandeau{
+    background-color: deepskyblue;
+    text-align: center;
+    color: linen;
+    font-weight: bolder;
+    font-size: 55px;
+}
+
+
+img{
+    width: 25%;
+
+}
+.image1{
+float:right;
+}
+
+.image2{
+    float:left;
+}
+
+.image3{
+    float:right;
+}
